@@ -27,3 +27,4 @@ cout << endl;
     return 0;
 }
 // g++ .\devisors.cpp
+
